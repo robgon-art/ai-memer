@@ -7,6 +7,6 @@ You can read my article about this project on Medium.
 
 This GitHub repositoray contains the source code for the project.
 
-The source code is released under the CC BY-NC-SA license. See License.txt for details.
+The source code and generated memes are released under the CC BY-SA license. See License.txt for details.
 
-![CC BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
+![CC BY-NC-SA](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
