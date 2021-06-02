@@ -1,6 +1,6 @@
 ![AI-memer Output](https://raw.githubusercontent.com/robgon-art/ai-memer/main/images/AI-Memer%20Cover%202.jpg)
 # AI-Memer: Using Machine Learning to Create Funny Memes 
-## How to create new memes using images from Wikimedia Commons and OpenImages with captions generated automatically by GPT-3 and GPT-Neo
+### How to create new memes using images from Wikimedia Commons and OpenImages with captions generated automatically by GPT-3 and GPT-Neo
 By Robert. A Gonsalves
 
 You can read my article about this project on Medium.
