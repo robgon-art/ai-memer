@@ -4,7 +4,7 @@
 ### How to create new memes using images from Wikimedia Commons and OpenImages with captions generated automatically by GPT-3 and GPT-Neo
 By Robert. A Gonsalves
 
-You can read my article about this project on Medium.
+You can read my article about this project on Medium, [towardsdatascience.com/ai-memer-using-machine-learning-to-create-funny-memes](https://towardsdatascience.com/ai-memer-using-machine-learning-to-create-funny-memes-12fc1fe543e4).
 
 This GitHub repositoray contains the source code for the project.
 
